@@ -1,9 +1,13 @@
 # MERN Stack Web App
 
-![](/blob/main/frontend/public/screenshot-for-readme.png)
+![]((https://github.com/m-ert/MERN-Stack-Web-App/blob/main/frontend/public/screenshot-for-readme.png))
 
 #### Run on local
-```npm run build```
+```
+npm run build
+```
 
 #### Start the app
-```npm run start```
+```
+npm run start
+```
